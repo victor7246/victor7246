@@ -2,6 +2,8 @@
 
 I am a third year PhD. student at IIT Delhi, where I work in the Laboratory for Computational Social Systems (LCS2) lead by Dr. Tanmoy Chakraborty. My primary area of research includes understanding generalization capabilities of small and efficient language models. I also actively work on designing efficient methods for compressing large language models for adpoting in resource-constrained settings.
 
+[![Victor7246's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor7246)](https://github.com/victor7246/github-readme-stats)
+
 <!--
 **victor7246/victor7246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
